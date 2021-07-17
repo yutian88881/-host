@@ -7,6 +7,7 @@
 127.0.0.1 support.wondershare.net
 127.0.0.1 www.cbs.wondershare.com
 127.0.0.1 platform.wondershare.com
+127.0.0.1 account.wondershare.com
  
 # 屏蔽corel联网验证
 127.0.0.1 apps.corel.com
