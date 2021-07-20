@@ -179,3 +179,12 @@
 127.0.0.1 asc.iobit.com
 127.0.0.1 pf.iobit.com
 127.0.0.1 iunins.iobit.com
+
+# 屏蔽梨子软件联网验证
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 license.piriform.com
+0.0.0.0 www.ccleaner.com
+0.0.0.0 shepherd.ff.avast.concc.avast.com
+0.0.0.0 ncc.avast.com.edgesuite.net
+0.0.0.0 ip-info.ff.avast.com
