@@ -8,15 +8,6 @@
 192.155.197.230 api.rollbar.com
 212.5.110.40       my.kaspersky.com
 
-# OneDrive Start
-204.79.197.213	api.onedrive.com
-2.17.58.51	api.onedrive.live.com
-204.79.197.217	onedrive.live.com
-204.79.197.217	skyweb.skyprod.akadns.net
-204.79.197.217	webedgegeo.skyprod.akadns.net
-104.44.88.28	skyapi.onedrive.live.com
-13.107.42.11	outlook.live.com
-
 # Psiphon Start
 54.239.168.4	psiphon3.com
 54.239.168.4	www.psiphon3.com
