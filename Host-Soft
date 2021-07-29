@@ -104,6 +104,7 @@
 
 # 屏蔽CAD迷你看图联网验证
 127.0.0.1 app.com
+127.0.0.1 cad.glodon.com
 
 # 屏蔽bandicam联网验证
 127.0.0.1 bandicam.com
