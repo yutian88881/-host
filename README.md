@@ -9,4 +9,4 @@
 * 解决Github访问<br>https://gitee.com/ineo6/hosts/raw/master/hosts
 * 2021年 github被墙最新hosts-每日更新<br>http://blog.yoqi.me/lyq/16489.html<br>本站订阅地址<br>https://raw.githubusercontent.com/yutian88881/Crack-Host/master/Github-Host
 
-* 解决Github访问<br>https://raw.githubusercontent.com/yutian88881/Crack-Host/master/Onedrive-Host
+* 解决Onedrive访问<br>https://raw.githubusercontent.com/yutian88881/Crack-Host/master/Onedrive-Host
